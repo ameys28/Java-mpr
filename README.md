@@ -1,1 +1,1 @@
-A Chat Application Using Java + Jswing + JDBC + MySQL
+A Community Chat Application Using Java + Jswing + JDBC + PostgreSQL
